@@ -1,2 +1,2 @@
 # Project
-#This is my project
+#This is my Face Detection Attendance System project
